@@ -2,10 +2,19 @@
     "name": "Galactic Theme",
     "type": "dark",
     "colors": {
-        "editor.background": "#c01137",
+        "activityBar.background": "#050505",
+        "activityBarBadge.background": "#680d72",
+        "editor.background": "#050505",
         "editor.foreground": "#eeffff",
-        "activityBarBadge.background": "#007acc",
-        "sideBarTitle.foreground": "#bbbbbb"
+        "editorLineNumber.foreground": "#edd965",
+        "editorCursor.foreground" : "#ffffff",
+        "editorGroupHeader.tabsBackground": "#050505",
+        "sideBarTitle.foreground": "#bbbbbb",
+        "sideBar.background": "#050505",
+        "sideBarSectionHeader.background": "#050505",
+        "statusBar.background": "#680d72",
+        "tab.inactiveForeground" : "#5c5959",
+        "tab.inactiveBackground" : "#050505"
     },
     "tokenColors": [
         {
