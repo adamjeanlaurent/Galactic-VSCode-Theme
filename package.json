@@ -4,11 +4,11 @@
     "description": "Galactic Editor Theme",
     "repository": {
         "type": "git",
-        "url" : "https://github.com/adamjeanlaurent/Galactic-VSCode-Theme"
+        "url": "https://github.com/adamjeanlaurent/Galactic-VSCode-Theme"
     },
     "publisher": "adampjl",
     "icon": "https://www.nasa.gov/images/content/178491main_sig07-009-516.jpg",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.44.0"
     },
