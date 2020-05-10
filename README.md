@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "galactic-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Galactic Theme !
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A theme based on a Vim color scheme I saw in a random Youtube video.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Javascript
+<img src = "pictures/JS.png"/>
 
-**Enjoy!**
+## HTML
+<img src = "pictures/HTML.png"/>
+
+## CSS
+<img src = "pictures/CSS.png"/>
