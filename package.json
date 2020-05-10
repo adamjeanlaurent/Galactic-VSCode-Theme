@@ -2,8 +2,8 @@
     "name": "galactic-theme",
     "displayName": "Galactic Theme",
     "description": "Galactic Editor Theme",
-    "publisher" : "adampjl",
-    "version": "0.0.1",
+    "publisher": "adampjl",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.44.0"
     },
