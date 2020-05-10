@@ -3,10 +3,10 @@
 A theme based on a Vim color scheme I saw in a random Youtube video.
 
 ## Javascript
-<img src = "pictures/JS.png"/>
+<img src = "https://github.com/adamjeanlaurent/Galactic-VSCode-Theme/raw/master/pictures/JS.png"/>
 
 ## HTML
-<img src = "pictures/HTML.png"/>
+<img src = "https://github.com/adamjeanlaurent/Galactic-VSCode-Theme/raw/master/pictures/HTML.png"/>
 
 ## CSS
-<img src = "pictures/CSS.png"/>
+<img src = "https://github.com/adamjeanlaurent/Galactic-VSCode-Theme/raw/master/pictures/CSS.png"/>
