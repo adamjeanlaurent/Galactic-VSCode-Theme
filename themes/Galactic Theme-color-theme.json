@@ -92,7 +92,7 @@
         },
         {
             "name": "Variables",
-            "scope": ["variable", "string constant.other.placeholder", "meta.delimiter.comma"],
+            "scope": ["variable", "string constant.other.placeholder", "meta.delimiter.comma",  "punctuation.definition.tag.end.html", "punctuation.definition.tag.begin.html"],
             "settings": {
                 "foreground": "#c2c0c0"
             }
@@ -114,9 +114,17 @@
         {
             // Function Keyword and let, var etc.
             "name": "Keyword, Storage",
-            "scope": ["keyword", "storage.type", "storage.modifier", "support.class.component.open.jsx", "support.class.component.close.jsx"],
+            "scope": ["keyword", "storage.type", "storage.modifier", "support.class.component.open.jsx", "support.class.component.close.jsx", "entity.name.tag", "keyword.operator.new"
+               ],
             "settings": {
                 "foreground": "#dbcd87"
+            }
+        },
+        {
+            "name": "Gray Operators",
+            "scope" : ["keyword.operator"],
+            "settings": {
+                "foreground": "#c2c0c0",
             }
         },
         {
@@ -127,8 +135,6 @@
                 "punctuation.definition.tag",
                 "punctuation.separator.inheritance.php",
                 "punctuation.definition.tag.html",
-                "punctuation.definition.tag.begin.html",
-                "punctuation.definition.tag.end.html",
                 "punctuation.section.embedded",
                 "keyword.other.template",
                 "keyword.other.substitution"
@@ -140,13 +146,12 @@
         {
             "name": "Tag",
             "scope": [
-                "entity.name.tag",
                 "meta.tag.sgml",
                 "markup.deleted.git_gutter",
                 "punctuation.separator.key-value"
             ],
             "settings": {
-                "foreground": "#dbcd87"
+                "foreground": "#c2c0c0"
             }
         },
         {
@@ -156,7 +161,8 @@
                 "entity.name.function",
                 "variable.function",
                 "support.function",
-                "keyword.other.special-method"
+                "keyword.other.special-method",
+                "entity.name.type"
             ],
             "settings": {
                 "foreground": "#95d379"
@@ -171,7 +177,7 @@
         },
         {
             "name": "Other Variable, String Link",
-            "scope": ["support.other.variable", "string.other.link"],
+            "scope": ["support.other.variable", "string.other.link",  "keyword.other.unit"],
             "settings": {
                 "foreground": "#c2c0c0"
             }
@@ -183,7 +189,6 @@
                 "constant.character",
                 "constant.escape",
                 "variable.parameter",
-                "keyword.other.unit",
                 "keyword.other"
             ],
             "settings": {
@@ -225,6 +230,8 @@
         {
             "name": "CSS Class and Support",
             "scope": [
+                "punctuation.section.property-list.begin.bracket.curly.css",
+                "punctuation.section.property-list.end.bracket.curly.css",
                 "source.css support.type.property-name",
                 "source.sass support.type.property-name",
                 "source.scss support.type.property-name",
