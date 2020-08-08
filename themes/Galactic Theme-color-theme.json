@@ -3,27 +3,27 @@
     "type": "dark",
     "colors": {
         // Activity Bar
-        "activityBar.background": "#161616",
+        "activityBar.background": "#0a0a0a",
         "activityBarBadge.background": "#680d72",
 
         // Editor
-        "editor.background": "#161616",
+        "editor.background": "#0a0a0a",
         "editor.foreground": "#eeffff",
         "editorLineNumber.foreground": "#dbcd87",
         "editorCursor.foreground" : "#ffffff",
-        "editorGroupHeader.tabsBackground": "#161616",
+        "editorGroupHeader.tabsBackground": "#0a0a0a",
 
         // Sidebar
         "sideBarTitle.foreground": "#bbbbbb",
-        "sideBar.background": "#161616",
-        "sideBarSectionHeader.background": "#161616",
+        "sideBar.background": "#0a0a0a",
+        "sideBarSectionHeader.background": "#0a0a0a",
 
         // Status Bar
         "statusBar.background": "#680d72",
 
         //Tab
         "tab.inactiveForeground" : "#5c5959",
-        "tab.inactiveBackground" : "#161616"
+        "tab.inactiveBackground" : "#0a0a0a"
     },
     "tokenColors": [
 
