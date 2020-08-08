@@ -39,7 +39,7 @@
             "name" : "class",
             "scope" : "entity.name.class",
             "settings": {
-                "foreground": "#c2c0c0",
+                "foreground": "#a45dac",
             }
         },
         // dot
@@ -576,10 +576,10 @@
             "scope": [
                 "markup.raw.block.fenced.markdown",
                 "variable.language.fenced.markdown",
-                "punctuation.section.class.end"
+                "punctuation.section.class"
             ],
             "settings": {
-                "foreground": "#EEFFFF"
+                "foreground": "#c2c0c0"
             }
         },
         {
