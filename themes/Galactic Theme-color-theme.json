@@ -8,7 +8,7 @@
 
         // Editor
         "editor.background": "#0a0a0a",
-        "editor.foreground": "#eeffff",
+        "editor.foreground": "#c2c0c0",
         "editorLineNumber.foreground": "#dbcd87",
         "editorCursor.foreground" : "#ffffff",
         "editorGroupHeader.tabsBackground": "#0a0a0a",
