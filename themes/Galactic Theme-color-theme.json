@@ -3,27 +3,27 @@
     "type": "dark",
     "colors": {
         // Activity Bar
-        "activityBar.background": "#0a0a0a",
+        "activityBar.background": "#030303",
         "activityBarBadge.background": "#680d72",
 
         // Editor
-        "editor.background": "#0a0a0a",
+        "editor.background": "#030303",
         "editor.foreground": "#c2c0c0",
         "editorLineNumber.foreground": "#dbcd87",
         "editorCursor.foreground" : "#ffffff",
-        "editorGroupHeader.tabsBackground": "#0a0a0a",
+        "editorGroupHeader.tabsBackground": "#030303",
 
         // Sidebar
         "sideBarTitle.foreground": "#bbbbbb",
-        "sideBar.background": "#0a0a0a",
-        "sideBarSectionHeader.background": "#0a0a0a",
+        "sideBar.background": "#030303",
+        "sideBarSectionHeader.background": "#030303",
 
         // Status Bar
         "statusBar.background": "#680d72",
 
         //Tab
         "tab.inactiveForeground" : "#5c5959",
-        "tab.inactiveBackground" : "#0a0a0a"
+        "tab.inactiveBackground" : "#030303"
     },
     "tokenColors": [
 
@@ -39,7 +39,7 @@
             "name" : "class",
             "scope" : "entity.name.class",
             "settings": {
-                "foreground": "#a45dac",
+                "foreground": "#FF00FF",
             }
         },
         // dot
@@ -56,7 +56,7 @@
             "name" : "css stuff",
             "scope" : ["support.constant.property-value.css"],
             "settings": {
-                "foreground": "#95d379",
+                "foreground": "#FF00FF",
             }
         },
         {
@@ -79,7 +79,7 @@
             "name" : "string double quote",
             "scope" : ["string.quoted", "constant.numeric"],
             "settings": {
-                "foreground": "#a45dac"
+                "foreground": "#FF00FF"
             }
         },
         {
@@ -117,7 +117,7 @@
             "scope": ["keyword", "storage.type", "storage.modifier", "support.class.component.open.jsx", "support.class.component.close.jsx", "entity.name.tag", "keyword.operator.new"
                ],
             "settings": {
-                "foreground": "#dbcd87"
+                "foreground": "#FFFF55"
             }
         },
         {
@@ -165,7 +165,8 @@
                 "entity.name.type"
             ],
             "settings": {
-                "foreground": "#95d379"
+                "foreground": "#00ff6e",
+                 "fontStyle": "bold"
             }
         },
         {
@@ -207,7 +208,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#C3E88D"
+                "foreground": "#00ff6e"
             }
         },
         {
@@ -265,7 +266,7 @@
             "name": "Attributes",
             "scope": ["entity.other.attribute-name"],
             "settings": {
-                "foreground": "#95d379"
+                "foreground": "#00ff6e"
             }
         },
         {
