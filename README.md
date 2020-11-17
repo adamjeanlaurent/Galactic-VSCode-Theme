@@ -1,6 +1,6 @@
 # Galactic Theme !
 
-A theme based on a Vim color scheme I saw in a random Youtube video.
+Dark Theme for VS Code based on the Vim Elford theme.
 
 ## Javascript
 <img src = "https://github.com/adamjeanlaurent/Galactic-VSCode-Theme/raw/master/pictures/JS.png"/>
